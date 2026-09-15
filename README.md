@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Instructions  
 Write a program that takes two input numbers, then adds them together and prints the result.
 
@@ -16,3 +17,7 @@ If you complete this task then please try adding the following features:
 e.g. 2 + 4 - 3, 4 *5 + 1 / 3
 
 **Note:** These features must be presented to the user *after* the initial task, or else the automatic grading will mark this as failed! Scoring for additional features will be done manually.
+=======
+# Calculadora1
+Calculadora sencilla
+>>>>>>> c78071fec50e7b6e48d57bacd28f33d63b041c50
